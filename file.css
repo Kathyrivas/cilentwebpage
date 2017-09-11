@@ -1,0 +1,24 @@
+
+.box1 {
+  min-height: 30vh;
+  width: 30%;
+  display: inline-table;
+  margin: auto;
+}
+
+
+.orange1 {
+	background-color: #E28200;
+}
+
+.green  {
+	background-color: #024B00;
+}
+
+.black  {
+	background-color: #000000;
+}
+
+.red {
+	background-color: #901313;
+}
